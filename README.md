@@ -1,4 +1,4 @@
-# Nom des participants au projet: Hériol ZEUFACK // Frédo AGBEKODO
+# Nom des participants au projet: Heriol ZEUFACK // Frédo AGBEKODO
 
 # 🧊 Analyse des Offres d'Emploi LinkedIn avec Snowflake
 
